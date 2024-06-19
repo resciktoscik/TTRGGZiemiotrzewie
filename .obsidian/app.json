@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Załączniki",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "spellcheck": true,
+  "propertiesInDocument": "source",
+  "livePreview": true
+}
