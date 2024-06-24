@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdcc418b6ad84f70",
+        "id": "63b65cd7a85948d3",
         "type": "tabs",
         "children": [
           {
-            "id": "2736cde7009ef94b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Lista prac.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "0d837be95a636211",
+            "id": "eba6cd4c29c79b49",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -46,93 +18,143 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "List of things",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Szablony/List of things.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Timeline Assets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Szablony/Timeline Assets.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Tuwras",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "neiwiem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/neiwiem.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chronologia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Chronologia.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "neiwiem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/neiwiem.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Item",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Szablony/Item.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ITS Infoboxes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Szablony/ITS Infoboxes.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lineage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Szablony/Lineage.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Szablony/Map.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "NPC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Szablony/NPC.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Tuwras",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Chronologia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Chronologia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "neiwiem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/neiwiem.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Tuwras",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "neiwiem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/neiwiem.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
+                },
+                {
+                  "title": "Tuwras",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "neiwiem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/neiwiem.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chronologia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Chronologia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tuwras",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Ziemiotrzewie/1. Notatki/1. Notatki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e259445f43feb057",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Lista prac",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Lista prac.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. Notatki",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/1. Notatki.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Tuwras",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "1. Notatki",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/1. Notatki.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Tuwras",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "1. Notatki",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/1. Notatki.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Tuwras",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Ziemiotrzewie/1. Notatki/Tuwras.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chyba",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chyba.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Ziemiotrzewie/1. Notatki/Tuwras.md",
+                "file": "_Ziemiotrzewie/4. Świat/Kontynenty/Kontynenty.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Ziemiotrzewie/1. Notatki/Tuwras.md",
+                "file": "_Ziemiotrzewie/4. Świat/Kontynenty/Kontynenty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Ziemiotrzewie/1. Notatki/Tuwras.md",
+                "file": "_Ziemiotrzewie/4. Świat/Kontynenty/Kontynenty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Ziemiotrzewie/1. Notatki/Tuwras.md"
+                "file": "_Ziemiotrzewie/4. Świat/Kontynenty/Kontynenty.md"
               }
             }
           },
@@ -372,13 +394,306 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "efcc6bbe87823474",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 2,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_fa19685bf99b"
+              }
+            }
+          },
+          {
+            "id": "912535446a93e2bc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_38f85b68eb68"
+              }
+            }
+          },
+          {
+            "id": "286028b27f495e92",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_292a6a49fbfa"
+              }
+            }
+          },
+          {
+            "id": "a4c261fdfa43cde9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_6bd9b9ca0a88"
+              }
+            }
+          },
+          {
+            "id": "bec5f1216f46e225",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_d8fa595a5888"
+              }
+            }
+          },
+          {
+            "id": "db3d6f4e3c747455",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_c8fa59ea2b2a"
+              }
+            }
+          },
+          {
+            "id": "e873039826ecbe3f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_e809fa2b18ab"
+              }
+            }
+          },
+          {
+            "id": "d7aec3b79e42aabc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_197a6989eae9"
+              }
+            }
+          },
+          {
+            "id": "353587793af6daaa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_ab09b9c80a08",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 7,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_9939f99a39d8"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 16
+      },
+      {
+        "id": "48d0b588016699c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed9e6abfa64c3c20",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 412.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -391,49 +706,67 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "media-extended:Open media": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e259445f43feb057",
+  "active": "eba6cd4c29c79b49",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "Lista prac.md",
-    "_Ziemiotrzewie/1. Notatki/1. Notatki.md",
-    "Chyba.md",
+    "Szablony/List of things.md",
+    "Szablony/Timeline Assets.md",
     "_Ziemiotrzewie/1. Notatki/Tuwras.md",
-    "Bez nazwy.md",
-    "_Ziemiotrzewie",
-    "Ziemiotrzewie/1. Notatki/Lubię Placki.md",
-    "Bez nazwy",
-    "Szablony",
-    "_Ziemiotrzewie/5. Mechaniki",
-    "_Ziemiotrzewie/4. Świat",
-    "_Ziemiotrzewie/3. Dziennik Sesji",
-    "_Ziemiotrzewie/1. Notatki",
-    "_Ziemiotrzewie/2.  Party",
-    "_Ziemiotrzewie/0. Ekran DMa",
-    "Nowa Notatka 2.md",
-    "Miejsca/Argenrault.md",
-    "Nowa Notatka.md",
-    "NPCe/Hitler.md",
-    "Miejsca/Ar Tez.md",
-    "Miejsca/Nonorle.md",
-    "Miejsca/Port Bellona.md",
-    "Załączniki/JABŁECZNIKZLODAMI.png",
-    "Załączniki/Pasted image 20240618214942.png",
-    "NPCe/Anne Frank.md",
+    "_Ziemiotrzewie/1. Notatki/neiwiem.md",
+    "_Ziemiotrzewie/1. Notatki/Chronologia.md",
+    "Szablony/Item.md",
+    "Szablony/ITS Infoboxes.md",
+    "Szablony/Lineage.md",
+    "Szablony/Map.md",
+    "Szablony/NPC.md",
+    "Note.md",
+    "_Ziemiotrzewie/4. Świat/Organizacje/Rebelia Zimorodka.md",
+    "_Ziemiotrzewie/4. Świat/Organizacje/Daegidalis.md",
+    "_Ziemiotrzewie/4. Świat/Organizacje/Organizacje.md",
+    "Szablony/Kingdoms.md",
+    "_Ziemiotrzewie/4. Świat/Miasta/Elblounghe.md",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ar Tez/Ziemie Księstwa Crestbough/Ziemie Księstwa Crestbough.md",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ar Tez/Wyspa Regas/Wyspa Regas.md",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ziemie Przejęte/Ziemie Przejęte.md",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ar Tez/Ar Tez.md",
+    "_Ziemiotrzewie/4. Świat/Wydarzenia/Wydarzenia.md",
+    "_Ziemiotrzewie/4. Świat/Postacie/Postacie.md",
+    "_Ziemiotrzewie/4. Świat/Miasta/Miasta.md",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Kontynenty.md",
+    "_Ziemiotrzewie/4. Świat/_Oś Czasu/_Oś Czasu.md",
+    "_Ziemiotrzewie/4. Świat/_Oś Czasu/1491.md",
+    "Załączniki/jaromir-hrivnac-01.jpg",
+    "Załączniki/Projektowanie Opakowań.jpg",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ziemie Przejęte",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ar Tez/Wyspa Regas",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ar Tez/Ziemie Księstwa Crestbough",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ar Tez/Ziemie Księstwa Crestbough",
+    "_Ziemiotrzewie/4. Świat/Wydarzenia",
+    "_Ziemiotrzewie/4. Świat/Kontynenty/Ar Tez",
+    "_Ziemiotrzewie/4. Świat/Kontynenty",
+    "_Ziemiotrzewie/4. Świat/Postacie/Przywódcy/Ród Ar",
+    "_Ziemiotrzewie/4. Świat/Postacie/Przywódcy",
+    "_Ziemiotrzewie/4. Świat/Postacie",
+    "Załączniki/410_ An unexpected error has occurred.jpg",
+    "Załączniki/1000_F_397851246_EU1Oef9OVf7kXb2FzmsHcSOZWt7zmwVq.jpg",
+    "Załączniki/original.jpg",
+    "Załączniki/dnd-god-195260480-1550176285584.jpg",
+    "Załączniki/Vector-Illustration-Monster-vampire-Graphics-10530060-1-580x387.jpg",
+    "Załączniki/Pasted image 20240620225626.png",
+    "Załączniki/dnd-banner.jpg",
+    "Załączniki/Tuvras.jpg",
     "Załączniki/Bez nazwy.canvas",
-    "Załączniki",
-    "Pasted image 20240618214445.png",
-    "Pasted image 20240618214450.png",
-    "Nowa Notatka 3.md",
-    "Welcome.md",
-    "2024-06-18.md",
     "Untitled.canvas"
   ]
 }

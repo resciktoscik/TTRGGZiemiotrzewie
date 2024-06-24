@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiCalendarFill",
+      "BoBxsBookOpen",
+      "RiMapFill",
+      "❕",
+      "RiPictureInPictureExitFill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -25,5 +31,20 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "_Ziemiotrzewie/1. Notatki/Tuwras.md": "RiAncientPavilionFill",
+  "_Ziemiotrzewie/2.  Party/Arkadia.md": "RaLightningBolt",
+  "_Ziemiotrzewie/2.  Party/Enayana.md": "RiMagicFill",
+  "_Ziemiotrzewie/2.  Party/Samael.md": "RaKnife",
+  "_Ziemiotrzewie/2.  Party/Stan.md": "RaSpearHead",
+  "_Ziemiotrzewie/2.  Party/Volt.md": "RaDrippingSword",
+  "_Ziemiotrzewie/3. Dziennik Sesji": "RiBookFill",
+  "_Ziemiotrzewie/4. Świat": "RiEarthFill",
+  "_Ziemiotrzewie/2.  Party": "🕺",
+  "_Ziemiotrzewie/1. Notatki": "BoBxsNote",
+  "Szablony": "BoBxsBookmarks",
+  "Załączniki": "RiPictureInPictureExitFill",
+  "Lista prac.md": "❕",
+  "_Ziemiotrzewie": "RiMapFill",
+  "_Ziemiotrzewie/4. Świat/_Oś Czasu": "RiCalendarFill"
 }

@@ -5,5 +5,8 @@
   "ITS@@writing": false,
   "ITS@@writing-document": false,
   "ITS@@justified": true,
-  "ITS@@lig": true
+  "ITS@@lig": true,
+  "ITS@@ITS-Note-Title-Styling": "file-header-gradient",
+  "ITS@@breadcrumbs-block": true,
+  "ITS@@dataview-regular-table": true
 }

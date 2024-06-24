@@ -1,10 +1,270 @@
 {
   "addToDefaultIfMissing": true,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Kalendarz Harptosa",
+      "description": "Kalendarz uchwalony przez Ar Nede.",
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "dateFormat": "DD-MM-YYYY",
+      "static": {
+        "displayDayNumber": false,
+        "firstWeekDay": 0,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": false,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "I",
+            "id": "ID_9999882bb94a"
+          },
+          {
+            "type": "day",
+            "name": "II",
+            "id": "ID_8a0b4b79d888"
+          },
+          {
+            "type": "day",
+            "name": "III",
+            "id": "ID_da483aca8bf9"
+          },
+          {
+            "type": "day",
+            "name": "IV",
+            "id": "ID_a8fbea39cac8"
+          },
+          {
+            "type": "day",
+            "name": "V",
+            "id": "ID_9b19d9787b0b"
+          },
+          {
+            "type": "day",
+            "name": "VI",
+            "id": "ID_382a590a8a28"
+          },
+          {
+            "type": "day",
+            "name": "VII",
+            "id": "ID_fbca0ab80afb"
+          },
+          {
+            "type": "day",
+            "name": "VIII",
+            "id": "ID_ca093bca5ad9"
+          },
+          {
+            "type": "day",
+            "name": "IX",
+            "id": "ID_d95b39098bf8"
+          },
+          {
+            "type": "day",
+            "name": "X",
+            "id": "ID_389bfb5858db"
+          }
+        ],
+        "months": [
+          {
+            "name": "Hammer ",
+            "short": "Hammer",
+            "subtitle": "Deepwinter",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_cbeb4b190b6a"
+          },
+          {
+            "name": "Midwinter",
+            "short": "Midwinter",
+            "type": "intercalary",
+            "length": 1,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_89bad9089b7b"
+          },
+          {
+            "name": "Alturiak",
+            "short": "Alturiak",
+            "subtitle": "The Claw of Winter",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a08a8aacb7b"
+          },
+          {
+            "name": "Ches ",
+            "short": "Ches",
+            "subtitle": "The Claw of the Sunsets",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_db2a7bf97afa"
+          },
+          {
+            "name": "Tarsakh",
+            "short": "Tarsakh",
+            "subtitle": "The Claw of Storms",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6b48982b0bda"
+          },
+          {
+            "name": "Greengrass",
+            "short": "Greengrass",
+            "type": "intercalary",
+            "length": 1,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_08790af92809"
+          },
+          {
+            "name": "Mirtul",
+            "short": "Mirtul",
+            "subtitle": "The Melting",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b91b39f95a28"
+          },
+          {
+            "name": "Kythorn (The Time of Flowers)",
+            "short": "Kythorn",
+            "subtitle": "The Time of Flowers",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_f8e9585a2bf8"
+          },
+          {
+            "name": "Flamerule",
+            "short": "Flamerule",
+            "subtitle": "Summertide",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fa895bdb38e9"
+          },
+          {
+            "name": "Midsummer",
+            "short": "Midsummer",
+            "type": "intercalary",
+            "length": 1,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_a9181b5a683a"
+          },
+          {
+            "name": "Eleasis ",
+            "short": "Eleasis",
+            "subtitle": "Highsun",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_1b1b1b287b0a"
+          },
+          {
+            "name": "Eleint ",
+            "short": "Eleint",
+            "subtitle": "The Fading",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_1aca5918993a"
+          },
+          {
+            "name": "Highharvestide",
+            "short": "Highharvestide",
+            "type": "intercalary",
+            "length": 1,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_a94a183b4b88"
+          },
+          {
+            "name": "Marpenoth ",
+            "short": "Marpenoth",
+            "subtitle": "Leaffall",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_58d97969eb79"
+          },
+          {
+            "name": "Uktar ",
+            "short": "Uktar",
+            "subtitle": "The Rotting",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_4b090b787b18"
+          },
+          {
+            "name": "Nightal ",
+            "short": "Nightal",
+            "subtitle": "The Drawing Down",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_abb82afab80a"
+          }
+        ],
+        "moons": [],
+        "leapDays": [
+          {
+            "name": "Shieldmeet",
+            "short": "Shieldmeet",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "offset": 0,
+            "timespan": 9,
+            "intercalary": false,
+            "id": "ID_5b08faa88ada"
+          }
+        ],
+        "eras": []
+      },
+      "current": {
+        "day": 5,
+        "month": 7,
+        "year": 1491
+      },
+      "events": [],
+      "id": "ID_ab09b9c80a08",
+      "categories": []
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_ab09b9c80a08",
   "eventPreview": false,
   "exit": {
     "saving": false,

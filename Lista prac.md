@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Do zrobienia: Fabuła
 
+- [ ] uwu
 
 
 ## Zrobione

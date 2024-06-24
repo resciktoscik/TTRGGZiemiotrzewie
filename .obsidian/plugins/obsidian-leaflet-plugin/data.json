@@ -1,21 +1,155 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "tuwras_map",
+      "lastAccessed": 1719220193360,
+      "markers": [
+        {
+          "id": "ID_dbfbca287bd9",
+          "type": "forest",
+          "loc": [
+            -1.0773438215255737,
+            0.31874990463256836
+          ],
+          "link": "neiwiem",
+          "layer": "%5B%5BTuvras.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.07968747615814209,
+            0.3591146071751912
+          ],
+          "description": "Droga do lasu",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_395a8bdbebe9",
+          "type": "default",
+          "loc": [
+            -1.8624999523162842,
+            1.9140625
+          ],
+          "layer": "%5B%5BTuvras.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.478515625,
+            0.6208333174387614
+          ],
+          "description": "Ratusz",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b4b58586b29",
+          "type": "default",
+          "loc": [
+            -1.586816430091858,
+            2.270312547683716
+          ],
+          "layer": "%5B%5BTuvras.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Fontanna",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5be86b38da7a",
+          "type": "default",
+          "loc": [
+            -1.486328125,
+            1.0791519434628976
+          ],
+          "link": "1000_F_397851246_EU1Oef9OVf7kXb2FzmsHcSOZWt7zmwVq",
+          "layer": "%5B%5Bdnd-god-195260480-1550176285584.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bc959c8e85b",
+          "type": "default",
+          "loc": [
+            -0.59765625,
+            0.8857394268992933
+          ],
+          "layer": "%5B%5Bdnd-god-195260480-1550176285584.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sans undertale",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "_Ziemiotrzewie/1. Notatki/Tuwras.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
-    "iconName": "map-marker",
-    "color": "#dddddd",
+    "iconName": "map-marker-alt",
+    "color": "#c80909",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "forest",
+      "iconName": "paw",
+      "color": "#b30000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "gówno",
+      "iconName": "poop",
+      "color": "#7d3a0d",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
   "notePreview": false,
-  "layerMarkers": true,
+  "layerMarkers": false,
   "previousVersion": "6.0.5",
   "version": {
     "major": 6,

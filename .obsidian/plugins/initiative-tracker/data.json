@@ -98,7 +98,48 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Goblin",
+        "initiative": 21,
+        "static": false,
+        "modifier": 2,
+        "hp": 7,
+        "currentMaxHP": 7,
+        "cr": "1/4",
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_ca29996bfbf9",
+        "currentHP": 7,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d6"
+      },
+      {
+        "name": "Goblin",
+        "initiative": 18,
+        "static": false,
+        "modifier": 2,
+        "hp": 7,
+        "currentMaxHP": 7,
+        "cr": "1/4",
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_ebb90a2af828",
+        "currentHP": 7,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d6"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
@@ -132,7 +173,29 @@
   "builder": {
     "showParty": true,
     "showXP": true,
-    "sidebarIcon": true
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ]
   },
   "rollPlayerInitiatives": 0
 }

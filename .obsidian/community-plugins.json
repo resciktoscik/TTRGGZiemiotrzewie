@@ -24,5 +24,9 @@
   "obsidian-excel-to-markdown-table",
   "breadcrumbs",
   "obsidian-banners",
-  "folder-notes"
+  "folder-notes",
+  "convert-url-to-iframe",
+  "templater-obsidian",
+  "obsidian-plugin-toc",
+  "obsidian-outliner"
 ]
